@@ -42,7 +42,7 @@ export default function Login() {
         <>
             <div className="App">
                 <header>
-                    <h2>Collabushare</h2>
+                    <h2>Login System</h2>
                 </header>
                 <main>
                     <h3>Login</h3>
